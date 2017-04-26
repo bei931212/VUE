@@ -1,0 +1,86 @@
+.detail_tab{
+	height: 1.17rem;
+	padding: 0 0.32rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.detail_tab .back{
+	width: 0.27rem;
+	height: 0.48rem;
+}
+.detail_tab .tab_three{
+	width: 4.0rem;
+	display: flex;
+	justify-content: space-between;
+}
+.detail_tab .tab_three span{
+	display: inline-block;
+	width: 1.07rem;
+	height: 1.17rem;
+	box-sizing: border-box;
+	font-size: 0.4rem;
+	text-align: center;
+	line-height: 1.17rem;
+}
+.detail_tab .tab_three span.span_active{
+	border-bottom: 0.03rem solid #ed6d00;
+	color: #ed6d00;
+}
+.good_detail .detail_tab .more i{
+	font-size: 0.6rem;
+	color: #898989;
+}
+.good_detail .mint-swipe{
+	height: 10.0rem;
+	width: 100%;
+}
+.good_detail .mint-swipe img{
+	width: 100%;
+	height: 100%;
+}
+.good_detail .good_main{
+	padding: 0 0.32rem;
+}
+.good_detail .good_main .good_title{
+	font-size: 0.37rem;
+	line-height: 0.4rem;
+	margin-top: 0.4rem;
+}
+.good_detail .good_main .good_price{
+	font-size: 0.43rem;
+	color: #ed6d00;
+	margin-top: 0.27rem;
+}
+.good_detail .good_main .coupon,.good_detail .good_main .specification,.good_detail .good_main .service{
+	height: 1.19rem;
+	line-height: 1.19rem;
+	font-size: 0.37rem;
+}
+.good_detail .good_main .coupon img{
+	vertical-align: middle;
+	margin-left: 0.13rem;
+	width: 2.47rem;
+}
+.good_detail .good_main .service img{
+	width: 0.53rem;
+	height: 0.53rem;
+	vertical-align: middle;
+}
+.good_detail .good_main .coupon span,.good_detail .good_main .specification span,.good_detail .good_main .service span{
+	margin-right: 0.4rem;
+}
+.mint-tab-container-item .evaluation{
+	height: 60vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 0.67rem;
+}
+.i_more{
+	width: 0.15rem;
+	height: 100%;
+	background: url("../../img/more.png") no-repeat center;
+	background-size: 0.15rem 0.27rem;
+	float: right;
+}

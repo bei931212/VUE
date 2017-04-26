@@ -1,0 +1,63 @@
+{
+  "status": 0,
+  "data":[
+    {
+      "memberInfo": {//说明同上
+        "nickname": "大胡哥哥",
+        "commission": "0.00",
+        "is_agent": "1",
+        "reg_time": "2015-09-25",
+        "agent_time": "2015-09-25",
+        "credit2": "138.30",
+        "credit2_freeze": "3.07",
+        "member_gold_count": "0",
+        "group_gold_count": "0",
+        "spending": "223.70",
+        "agent_level": "0",
+        "avatar": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLBTuA24zoGVh4MBOyHhbiaicQib6uLkfRpfroK50rqLvBW638kdRhamXCCb5vQaIsR0TLF17TPibeoWdQ/0",
+        "uid": "29689556",
+        "has_shareid": 1,
+        "agent_level_name": "普通创客"
+    } ,
+    // "orderCount": {//订单统计，用于用户中心首页商品按钮右上角显示数量？
+    //   "pending": 0,//待付款
+    //   "waitsend": 2,//待发货
+    //   "receipt": 1,//待收货
+    //   "return": 0,//退款、退换货中
+    //   "uncomment": 0  //int 待评价，默认0 [2017-03-17]
+    // },
+    // "favoriteCount": {//收藏统计
+    //   "goods": 0,//收藏的商品数量
+    //   "shop": 0//收藏的店铺数量
+    // },
+    // "commentCount": {//评论统计 [2017-03-17]
+    // "from_seller": 0,     //int  总共收获的评价数量，默认0
+    // "to_goods": 0,        //int  对商品的评价数量，默认0
+    // "unreceive_day": 323  //int  累计未收获评论的天数，默认0
+    // },
+    // "otherCount": {//其它统计 [2017-03-17]
+    // "work_sort": 0        //int  贡献值排名，默认0
+    // },
+    // "needDo":{//判断需要进行的操作
+    //   "setUsername":"yes",//需要设置用户名（yes是 no否）
+    //   "setNickname":"yes",//需要设置昵称（yes是 no否）
+    //   "setPassword":"yes",//需要设置密码（yes是 no否）
+    //   "setMobile":"yes",//需要绑定手机（yes是 no否）
+    //   "setAvatar":"yes",//需要上传头像（yes是 no否）
+    //   "bindWexin":"yes",//需要绑定微信（yes是 no否）
+    // },
+    // "fight":{//大赛相关
+    //     "fight_status":"1",//0报名前，1报名中，2，比赛中，3，比赛结束。
+    //     "user_level":"1",//会员等级，1代表v1
+    //     "is_fight_sign":0,//是否注册大赛，1注册，0未注册
+    //     "state":1,//1开放，0关闭
+    //     "can_reg_level":1,//大赛可以注册级别
+    //     "fight_info": {
+    //     "start_time": "2017-03-18 00:00:00",//大赛开始时间
+    //     "end_time": "2017-05-18 00:00:00",//大赛结束时间
+    //     "sign_start_time": "2017-02-18 00:00:00",//报名开始时间
+    //     "sign_end_time": "2017-05-18 00:00:00"//报名结束时间
+    //   }
+    // }
+  }]
+}

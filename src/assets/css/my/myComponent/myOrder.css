@@ -1,0 +1,101 @@
+/*myOrder_header*/
+.myOrder{
+	width: 100%;
+	overflow: hidden;
+}
+.myOrder_header{
+	width: 100%;
+	margin-top: 0.236111rem;
+	background: #fff;
+}
+.myOrder_nav{
+	width: 100%;
+	height: 1.111111rem;
+	margin-left: 0.194444rem;
+	line-height: 1.111111rem;
+	font-size: 0.347222rem;
+	border-bottom: 2px solid #aaa;
+}
+.myOrder_nav span:last-child{
+	float: right;
+	width: 0.222222rem;
+	height: 0.361111rem;
+	margin-right: 0.444444rem;
+	margin-top: 0.388889rem;
+	background: url(../../../img/more.png) no-repeat;
+	background-size: 100% 100%;
+}
+.myOrder_list{
+	width: 100%;
+	height: 1.75rem;
+}
+.myOrder_list li{
+	position: relative;
+	float: left;
+	box-shadow: border-box;
+	width: 20%;
+	height: 1.75rem;
+	text-align: center;
+}
+.myOrder_list a{
+	color: #111;
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+.myOrder_list img{
+	margin-top: 0.305556rem;
+	height: 0.555556rem;
+}
+.myOrder_list p{
+	margin-top: 0.069444rem;
+	font-size: 0.347222rem;
+}
+.myOrder_list span{
+	display: none;
+	position: absolute;
+	left: 1.180556rem;
+	top: 0.138889rem;
+	width: 0.277778rem;
+	height: 0.277778rem;
+	border: 1px solid #333;
+	background: #ed6d00;
+	border-radius: 50%;
+	color: #fff;
+	text-align: center;
+	line-height: 0.277778rem;
+}
+/*myOrder_footer*/
+.myOrder_footer{
+	width: 100%;
+	background-color: #fff;
+	margin-top: 0.236111rem;
+}
+.myOrder_footer ul{
+	width: 100%;
+	height: 2.541667rem;
+}
+.myOrder_footer li{
+	float: left;
+	width: 25%;
+	height: 2.541667rem;
+	box-shadow: border-box;
+	text-align: center;
+}
+.myOrder_footer a{
+	display: block;
+	color: #111;
+	height: 100%;
+	width: 100%;
+	font-size: 0.347222rem;
+}
+.myOrder_footer img{
+	margin-top: 0.652778rem;
+	margin-bottom: 0.194444rem;
+	width: 0.694444rem;
+	height: 0.694444rem;
+}
+hr{
+	width: 100%;
+	margin-left: 0.194444rem;
+}

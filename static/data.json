@@ -1,0 +1,62 @@
+{
+  "status": 0,
+  "goods": [
+    {
+          "mail":"MUTCAOD专卖店",
+          "name": "【买二adsaasda买四asd】爱心创asda间",
+          "price": 10,
+          "num":1,
+          "dp":[
+            {
+              "foodName":"hdkfhsdkfs",
+              "foodPrice":15,
+              "foodNum":2,
+              "img":"https://img.alicdn.com/tfscom/TB2St3Oa9iK.eBjSZFsXXbxZpXa_!!0-dgshop.jpg_100x100q90.jpg_.webp"            
+            },
+            {
+              "foodName":"爱心创意钻石就哈四大皆空撒娇的空间",
+              "foodPrice":17,
+              "foodNum":4,
+              "img":"https://img.alicdn.com/tfscom/TB2WHuhc3SI.eBjy1XcXXc1jXXa_!!0-dgshop.jpg_100x100q90.jpg_.webp"                
+
+            }
+          ]
+    },
+    {
+          "mail":"弄啊时间都",
+          "name": "【买一发一】哈是多久啊还是看大海上的间",
+          "price": 20,
+          "num":1,
+          "dp":[
+            {
+              "foodName":"【买送一，买二】爱心创意钻石就哈四大皆空撒娇的空间",
+              "foodPrice":15,
+              "foodNum":2,
+              "img":"https://img.alicdn.com/tfscom/TB2ioahtpXXXXbrXXXXXXXXXXXX_!!2-dgshop.png_100x100q90.jpg_.webp"               
+            },
+            {
+              "foodName":"【买送二】爱心创意钻石就哈四大皆空撒娇的空间",
+              "foodPrice":17,
+              "foodNum":4,
+              "img":"https://img.alicdn.com/tps/TB1CQi7KVXXXXauXpXXXXXXXXXX-200-200.jpg_120x120.jpg"               
+
+            }
+          ]
+    },
+        {
+          "mail":"弄啊时间都",
+          "name": "【买一发一】哈是多久啊还是看大海上的间",
+          "price": 20,
+          "num":1,
+          "dp":[
+            {
+              "foodName":"【买三送一，买四",
+              "foodPrice":15,
+              "foodNum":2,
+              "img":"https://img.alicdn.com/tfs/TB1x2pqQFXXXXcoXVXXXXXXXXXX-200-200.jpg_120x120.jpg"              
+            }
+          ]
+    }
+  ]
+}
+

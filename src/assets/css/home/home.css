@@ -1,0 +1,134 @@
+.home{
+	width: 100%;
+	background: #f4f4f4;
+}
+.home_mint_swipe {
+    overflow: hidden;
+    position: relative;
+    height:3.0rem;
+    margin-top: 1.25rem;
+}
+.home_mint_swipe .mint-swipe-items-wrap{height:3.0rem;}
+.home_mint_swipe .mint-swipe-items-wrap img{width: 100%;height: 100%;}
+.home_list{
+	width:100%;
+	height: 3.92rem;
+	background: #fff;
+	margin-bottom: 0.133333rem; 
+}
+.home_list ul li{
+	width: 2.0rem;
+	height: 2.0rem;
+	padding: 0.133333rem 0;
+	box-sizing: border-box;
+	float: left;
+	text-align: center;
+}
+.home_list ul li img{
+	width:1.173333rem;
+	height: 1.173333rem;
+}
+.home_news{
+	width: 100%;
+	height: 0.826667rem;
+	line-height: 0.826667rem;
+	padding-left: 0.213333rem;
+	box-sizing: border-box;
+	background: #fff;
+	margin-bottom: 0.133333rem;
+}
+.home_news .home_news_pic{
+	width: 1.546667rem;
+	height: 0.826667rem;
+	padding-top: 0.226667rem;
+	box-sizing: border-box;
+	line-height: 0.826667rem;
+	float: left;
+	margin-right: 0.266667rem
+}
+.home_news .home_news_pic img{
+	width: 100%;
+	display: block;
+}
+.home_news p{
+	width: 7.76rem;
+	float: left;
+	color: #414141;
+	font-size: 0.32rem;
+}
+.home_pre{
+	width: 100%;
+	height: 5.546667rem;
+	overflow: hidden;
+}
+.home_pre ul li{
+	width: 5.0rem;
+	height: 2.8rem;
+	float: left;
+	overflow: hidden;
+}
+.home_pre ul li img{
+	width: 100%;
+}
+.home_pre ul li a{
+	width: 100%;
+	display: inline-block;
+	height: 100%;
+}
+.home_miaosha{
+	width: 100%;
+	height: 4.0rem;
+	margin-bottom: 0.133333rem;
+}
+.home_miaosha_pic{
+	width: 100%;
+}
+.home_miaosha_pic img{
+	width: 100%;
+	display: block;
+}
+.home_miaosha ul li{
+	width:2.293333rem;
+	height: 1.6rem;
+	margin:0 0.066667rem;
+	float: left;
+}
+.home_miaosha ul li img{
+	width: 100%;
+}
+.home_pintuan{
+	height: 6.933333rem;
+	width: 100%;
+	background: #f7f7f7;
+}
+.home_pintuan_pic{
+	padding-left: 4.133333rem;
+	padding-right: 0.32rem;
+	height: 1.066667rem;
+	line-height: 1.066667rem;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.home_pintuan_pic img{
+	width:1.893333rem;
+	margin-top: 0.32rem;
+	display: block;
+	float: left;
+}
+.home_pintuan_pic span{
+	float: right;
+	color: #ff4c4c;
+}
+.home_pintuan_list{
+	width: 100%;
+}
+.home_pintuan_list ul{
+	overflow: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+.home_pintuan_list ul li{
+	width: 3.453333rem;
+	height: 5.68rem;
+	float: left;
+	margin:0 0.2rem;
+}

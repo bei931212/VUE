@@ -1,0 +1,132 @@
+{
+  "status": 0,
+  "data": {
+    "totalCount": 3,//商品总数
+    "totalPrice": "3225.90",//商品总价
+    "goodsList": [ //商品列表，按商家展示
+      {
+        "sellerid": "305", //商家ID
+        "seller_name": "奇峰商贸有限公司",//商家名称
+        "goods": [//商品列表
+          {
+            "cartId": "2631845",//购物车ID
+            "goodsid": "24254",//商品ID
+            "optionid": "169920",//规格ID
+            "total": "1",//购买数量
+            "sellerid": "305",
+            "seller_name": "奇峰商贸有限公司",
+            "title": "【父亲节促销】 创意带散热孔电源线插座收纳盒2个装【qifeng】",//商品标题
+            "thumb": "https://img.shunliandongli.com/attachment/images/2016/06/Z0bvk2B0A5A7uBZ4bzJavgJAgB2qUb.jpg",//商品图片
+            "marketprice": "20.90",//商品价格
+            "unit": "",
+            "g_total": "1491",//商品库存数量
+            "maxbuy": "0",//限购，大于0表示限购数量
+            "go_title": "蓝色",//规格名称
+            "go_marketprice": "20.90",//规格价格
+            "go_stock": "300",//规格库存数量
+            "optionname": "蓝色",//规格名称
+            "totalprice": 20.9//总价
+          }
+        ]
+      },
+      {
+        "sellerid": "495",
+        "seller_name": "杰辉商贸有限公司",
+        "goods": [
+          {
+            "cartId": "2631846",
+            "goodsid": "24240",
+            "optionid": "169813",
+            "total": "1",
+            "sellerid": "495",
+            "seller_name": "杰辉商贸有限公司",
+            "title": "【超值3条装】创意带浴花沐浴手套 ",
+            "thumb": "https://img.shunliandongli.com/attachment/images/2016/06/GytappLL65KhlIICAo6ip5Y5T60yY0.jpg",
+            "marketprice": "17.00",
+            "unit": "",
+            "g_total": "452",
+            "maxbuy": "0",
+            "go_title": "超值3条装",
+            "go_marketprice": "17.00",
+            "go_stock": "502",
+            "optionname": "超值3条装",
+            "totalprice": 17
+          }
+        ]
+      },
+      {
+        "sellerid": "448",
+        "seller_name": "品牌手机专营店",
+        "goods": [
+          {
+            "cartId": "2631850",
+            "goodsid": "22648",
+            "optionid": "155695",
+            "total": "1",
+            "sellerid": "448",
+            "seller_name": "品牌手机专营店",
+            "title": "华为 P9 移动/联通/电信 4G手机 双卡双待",
+            "thumb": "https://img.shunliandongli.com/attachment/images/2016/06/nmta55hTNnJAc675566Pntd0zFc0cc.jpg",
+            "marketprice": "3188.00",
+            "unit": "",
+            "g_total": "789",
+            "maxbuy": "0",
+            "go_title": "3GB+32G+全网通（移动/联通/电信 4G）+金色",
+            "go_marketprice": "3188.00",
+            "go_stock": "100",
+            "optionname": "3GB+32G+全网通（移动/联通/电信 4G）+金色",
+            "totalprice": 3188
+          }
+        ]
+      }
+    ]
+  }
+}
+
+
+
+/*
+
+
+
+{
+  "status": 0,
+  "totalmoney":0,
+  "goods": [
+    {  
+      "mailname":"MUTCAOD专卖店",
+       "mail":[
+          {  
+              "name": "【买二送一，买四送二】爱心创意钻石就哈四大皆空撒娇的空间",
+              "price": 10,
+          }, 
+          {  
+              "name": "【买二送一，买四送二】爱心创意钻石就哈四大皆空撒娇的空间",
+              "price": 10,
+          }
+        ]
+
+    },{  
+      "mailname":"MUTCAOD专卖店",
+       "mail":[
+          {  
+              "name": "【买二送一，买四送二】爱心创意钻石就哈四大皆空撒娇的空间",
+              "price": 10,
+          }, 
+          {  
+              "name": "【买二送一，买四送二】爱心创意钻石就哈四大皆空撒娇的空间",
+              "price": 10,
+          }
+        ]
+
+    }
+  ]
+}
+
+
+ */
+
+ */
+
+
+*/

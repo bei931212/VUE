@@ -1,0 +1,26 @@
+{
+	"status" : 0,
+	"data":{
+		"memberInfo" :{
+			"nickname" : "大胡哥哥",
+			"commission" : "0.00",
+			"is_agent" : "1",
+			"reg_time" : "2017-04-01",
+			"agent_time" : "2017-04-01",
+			"credit2" : "138.30",
+			"credit2_freeze" : "3.07",
+			"avatar": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLBTuA24zoGVh4MBOyHhbiaicQib6uLkfRpfroK50rqLvBW638kdRhamXCCb5vQaIsR0TLF17TPibeoWdQ/0"
+		},
+		"favoriteCount":{
+      		"goods": "0",
+      		"shop": "0"
+      	},
+      	"orderCount":{
+      		"pending":"0",
+      		"waitsend":"2",
+      		"receipt":"1",
+      		"return":"0",
+      		"uncomment":"0"
+      	}
+	}
+}

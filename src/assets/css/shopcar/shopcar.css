@@ -1,0 +1,31 @@
+h3{height:1.12rem;line-height:1.12rem;font-size:0.533333rem;text-align: center;background:#ec6d02;color:white;position:relative;width:100%;position:fixed;left:0;top:0;}
+h3 span{position:absolute;font-size:0.4rem;right:0.533333rem;}
+.store{width:100%;height: 1.066667rem;line-height:1.066667rem;border-bottom:1px solid black;box-sizing: border-box;padding-left:0.266667rem;}
+ul.ulshopcar{margin-bottom:2.57rem;width:100%;margin-top:1.12rem;}
+.goods{height:2.4rem;box-sizing: border-box;padding-left:0.266667rem;}
+.goods .left{height:2.4rem;line-height:2.4rem;float:left;}
+.goods .center{float:left;height:2.133333rem;width:2.133333rem;}
+.goods img{width:100%;height:100%;padding-top:0.13rem;padding-right:0.266667rem;}
+.goods .right{float:right;height:100%;width:6rem;}
+.goods .title,.goods .title2{height:100%;}
+.title .name1{height:0.8rem;line-height:0.8rem;overflow:hidden;white-space: nowrap;text-overflow: ellipsis;padding-bottom:1.033333rem;color:black;padding-top:0px;}
+.title p span.num{float:right;color:black;font-weight:normal;}
+.title p{color:black;}
+
+.title2 i{height:2.2rem;width:0.694444rem;background:red;color:white;float:right;line-height: 2.2rem;margin:0.1rem 0 0.1rem 0rem} 
+.title2 .bBox{margin-top:0.694444rem;margin-left:40px;float:left;}
+.title2 b,.title2 input{display:inline-block;width:0.694444rem;height:0.694444rem;text-align: center;line-height:0.694444rem;border:1px solid gray;color:black;}
+.goods .title2 .bBox input{margin-right:0;}
+.sell{height:1.28rem;line-height: 1.28rem;box-sizing: border-box;padding-left:0.266667rem;border-top:1px solid black;position:fixed;bottom:1.29rem;width:100%;background:white;}
+.sell .left{height:100%;float:left;}
+.sell .right{height:100%;float:right;}
+.sell .right .yf{float:left;padding-right:0.133333rem;}
+.sell .right .yf p:first-child{color:#e4462b;line-height:0.8rem;font-size:0.346667rem;}
+.sell .right .yf p:last-child{line-height:0.266667rem;font-size:0.266667rem;text-align: right}
+.sell .right .js{float:left;width:2.786667rem;text-align:center;background:#e86e07;color:white;}
+.sell .right .yd{float:left;background:orange;color:white;}
+.sell .right .sc{float:left;background:red;color:white;}
+.radio{border-radius: 43%;margin-right:0.32rem;color:black;width:20px;height:20px;display:inline-block;border:1px solid black;}
+.check{background:url('../../../components/shopcar/gou.gif');background-size:100% auto;height:22px;width:22px;margin-top:0px;border:none;}
+.mails{margin-right:0.32rem;width:20px;height:20px;display:inline-block;}
+input{margin-right:0.32rem;}

@@ -1,0 +1,126 @@
+.myIndent_container{
+	width: 100%;
+	height: 100%;
+}
+/*myIndent_header*/
+.myIndent_header{
+	position: relative;
+	width: 100%;
+	height: 1.569444rem;
+	text-align: center;
+	line-height: 1.569444rem;
+	color: #111;
+	font-size: 0.416667rem;
+	border-bottom: 1px solid #aaa;
+}
+.myIndent_header span:first-child{
+	position: absolute;
+	left: 0.402778rem;
+	top: 0.555556rem;
+	width: 0.319444rem;
+	height: 0.444444rem;
+	background: url(../../img/return.png) no-repeat;
+	background-size: 100% 100%;
+}
+/*myIndent_nav*/
+.myIndent_nav{
+	width: 100%;
+	height: 1.111111rem;
+	background: #fff;
+}
+.myIndent_nav li{
+	float: left;
+	width: 20%;
+	height: 1.111111rem;
+	box-sizing: border-box;
+	text-align: center;
+	line-height: 1.111111rem;
+	color: #595959;
+	font-size: 0.347222rem;
+}
+.myIndent_nav .line_color{
+	color: #dba576;
+	border-bottom: 2px solid red;
+}
+/*myIndent_main*/
+.myIndent_main li{
+	width: 100%;
+	border-top:1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+	 
+}
+.myIndent_main a{
+	color: #111;
+}
+.myIndent_main_header {
+	position: relative;
+	width: 100%;
+	height: 0.833333rem;
+	background: #fff;
+	line-height: 0.833333rem;
+}
+.myIndent_main_header .span1{
+	position: absolute;
+	left: 0.194444rem;
+	top: 0.152778rem;
+	width: 0.5rem;
+	height: 0.5rem;
+	background: url(../../img/shop.png) no-repeat;
+	background-size: 100% 100%;
+}
+.myIndent_main_header p{
+	margin-left: 0.875rem;
+	color: black;
+}
+.myIndent_main_header .span2{
+	float: right;
+	margin-right: 0.222222rem;
+	color: #f27d1e;
+}
+.myIndent_main_main{
+	position: relative;
+	width: 100%;
+	height: 1.944444rem;
+	border-top: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+	background: #f5f5f5;
+}
+.myIndent_main_main img{
+	display: inline-block;
+	width: 1.597222rem;
+	height: 1.597222rem;
+	margin: 0.194444rem;
+}
+.myIndent_main_main .p1{
+	position: absolute;
+	left: 1.944444rem;
+	top: 0.180556rem;
+	width: 6.013889rem;
+	height: 0.763889rem;
+	overflow: hidden;
+	font-size: 0.277778rem;
+}
+.myIndent_main_main .p2{
+	position: absolute;
+	left: 1.944444rem;
+	top: 1.111111rem; 
+}
+.myIndent_main_main .price{
+	float: right;
+	margin-right: 0.111111rem;
+	margin-top: 0.361111rem;
+}
+.myIndent_main_main .quantity{
+	position: absolute;
+	left: 9.611111rem;
+	top: 1.041667rem;
+}
+.myIndent_main_footer{
+	width: 100%;
+	height: 0.875rem;
+	line-height: 0.875rem;
+	background: #fff;
+	text-align: right;
+	margin-bottom: 0.25rem;
+}
+

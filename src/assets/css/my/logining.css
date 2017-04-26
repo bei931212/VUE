@@ -1,0 +1,156 @@
+.logining{
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: #f7f7f7;
+}
+.loginging_header{
+	width: 100%;
+	height: 1.569444rem;
+	text-align: center;
+	line-height: 1.569444rem;
+	color: black;
+	font-size: 0.416667rem;
+	font-weight: 600;
+	border-bottom: 1px solid #666; 
+}
+.loginging_header span:first-child{
+	position: absolute;
+	left: 0.472222rem;
+	top: 0.569444rem;
+	width: 0.430556rem;
+	height: 0.430556rem;
+	background: url(../../img/close1.png) no-repeat;
+	background-size: 100% 100%;
+}
+/*logining_user*/
+.logining_user{
+	position: relative;
+	width: 9.625rem;
+	height: 2.263889rem;
+	margin-top: 0.152778rem;
+	background: #fff;
+	margin-left: 0.208333rem;
+	border-radius: 0.138889rem;
+}
+.logining_user div{
+	width: 100%;
+	height: 1.166667rem;
+	box-sizing: border-box;
+	line-height: 1.166667rem;
+}
+.logining_user input{
+	width: 8.430556rem;
+	height: 1.111111rem;
+	margin: 0;
+	margin-left: 1.208333rem;
+	border: none;
+	border-bottom: 1px solid #aaa;
+	font-size: 0.416667rem;
+	line-height: 1.111111rem;
+	/*resize:none;*/ 
+   /* outline:none; */
+    -webkit-appearance:none;  
+    line-height: normal;
+}
+.logining_pwd input{
+	border: none;
+}
+.logining_user .userName{
+	position: absolute;
+	left: 0.291667rem;
+	top: 0.194444rem;
+	width: 0.75rem;
+	height: 0.75rem;
+	background: url(../../img/user.png) no-repeat;
+	background-size: 100% 100%;
+}
+.logining_user .delete_userName{
+	position: absolute;
+	left: 8.916667rem;
+	top: 0.402778rem;
+	width: 0.361111rem;
+	height: 0.361111rem;
+	background: url(../../img/delete1.png) no-repeat;
+	background-size: 100% 100%;
+}
+.logining_user .userPwd{
+	position: absolute;
+	left: 0.291667rem;
+	top: 1.319444rem;
+	width: 0.75rem;
+	height: 0.75rem;
+	background: url(../../img/password.png) no-repeat;
+	background-size: 100% 100%;
+}
+.logining_user .userSee{
+	position: absolute;
+	left: 8.652778rem;
+	top: 1.541667rem;
+	width: 0.5rem;
+	height: 0.347222rem;
+	background: url(../../img/visible.png) no-repeat;
+	background-size: 100% 100%;
+}
+.logining_user .userUnsee{
+	position: absolute;
+	left: 8.652778rem;
+	top: 1.541667rem;
+	width: 0.5rem;
+	height: 0.347222rem;
+	background: url(../../img/invisible.png) no-repeat;
+	background-size: 100% 100%;
+}
+/*logining_button*/
+.logining_button{
+	width: 100%;
+	text-align: center;
+	margin-top: 0.375rem;
+}
+.logining_button a{
+	display: inline-block;
+	width: 9.638889rem;
+	height: 1.083333rem;
+	background: #aaa;
+	line-height: 1.083333rem;
+	color: #fff;
+	border-radius: 0.138889rem;
+	font-size: 0.416667rem;
+}
+.logining_button .bg_color{
+	background: #ed6d00;
+}
+/*logining_footer*/
+.logining_footer{
+	position: relative;
+	margin-top: 6.305556rem;
+	/*margin-left: 0.277778rem;*/
+}
+.logining_span{
+	width: 100%;
+	margin-left: 0.486111rem;
+}
+.logining_footer .logining_line{
+	display: inline-block;
+	border: none;
+	border-top: 1px solid #aaa;
+	width: 3.611111rem;
+	height: 0.111111rem;
+}
+.logining_footer .logining_word{;
+	display: inline-block;
+	margin:0.375rem;
+	color: #aaa;
+}
+.logining_weixin{
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	margin-top: 2.083333rem;
+}
+.logining_weixin img{
+	width: 1.722222rem;
+	height: 1.722222rem;
+}

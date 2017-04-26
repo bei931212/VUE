@@ -1,0 +1,78 @@
+.class_goodList .sort{
+	height: 1.17rem;
+}
+.class_goodList .sort .sort_box{
+	width: 25%;
+	height: 1.17rem;
+	line-height: 1.17rem;
+	text-align: center;
+	font-size: 0.4rem;
+	float: left;
+}
+.class_goodList .load_more{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	top: 2.35rem;
+	width: 100%;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling : touch;
+	background: #f7f7f7;
+}
+.class_goodList .load_more ul{
+	overflow: hidden;
+	padding: 0 0.13rem;
+}
+.class_goodList .load_more ul li{
+	float: left;
+	width: 4.8rem;
+	height: 6.56rem;
+	margin-bottom: 0.13rem;
+	background: white;
+}
+.class_goodList .load_more ul li.marginRight{
+	margin-right: 0.13rem;
+}
+.class_goodList .load_more ul li .img_box{
+	width: 4.8rem;
+	height: 4.8rem;
+	overflow: hidden;
+}
+.class_goodList .load_more ul li .img_box img{
+	width: 100%;
+}
+.class_goodList .load_more ul li p.title{
+	font-size: 0.4rem;
+	line-height: 0.43rem;
+	overflow : hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient: vertical;
+    margin-top: 0.2rem;
+}
+.class_goodList .load_more ul a{
+	color: black;
+}
+.class_goodList .load_more ul li p.price{
+	color: #f25416;
+	margin-top: 0.27rem;
+	font-size: 0.4rem;
+}
+
+/*商品详情*/
+.class_goodList .good_detail{
+	width: 100vw;
+	height: 100vh;
+	background: red;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.mint-loadmore-top span{
+	display: inline-block;
+	transition: 0.5s;
+}
+.mint-loadmore-top span.rotate{
+	transform: rotate(180deg);
+}
